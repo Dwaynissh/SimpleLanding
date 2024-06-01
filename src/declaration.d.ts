@@ -1,0 +1,6 @@
+declare module "*/src/Assets"
+declare module "*./Assets/Videos/Abstractvid.mp4"
+declare module "*./Assets/Videos/Orangehexagons.mp4"
+declare module "*./Assets/Videos/OrangeParticlesMotion.mp4"
+declare module "react-share"
+declare module "html2canvas"
